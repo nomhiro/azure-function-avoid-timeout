@@ -1,0 +1,5 @@
+##
+GET http://localhost:7071/api/http_trigger?sleeptime=11
+
+###
+GET https://func-poc-timeout-test.azurewebsites.net/api/http_trigger?sleeptime=11
